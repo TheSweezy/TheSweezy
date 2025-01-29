@@ -1,4 +1,6 @@
-## Hi there 👋
+Mein Name lautet Sweezy 👋
+
+![github-contribution-grid-snake-dark (1)](http://sun-cloud.net/sweezy/snake.svg)
 
 <!--
 **TheSweezy/TheSweezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
